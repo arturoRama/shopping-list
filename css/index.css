@@ -1,0 +1,36 @@
+body{
+	font-family: Verdana, sans-serif;
+	background-color:#faffff;
+	margin:10px;
+	padding:0;
+	font-size:16px;
+}
+
+h1{
+	margin:10px 50px;
+	padding:20px 0px;
+	font-weight: bold;
+	color:#86592d;
+}
+
+button{
+	background-color:#5c85d6;
+	text-align: center;
+	padding: 10px 20px;
+	color:white;
+	margin-right:20px;
+	border:0;
+	border-radius: 50px;
+}
+.checkButton{
+	margin:15px;
+	background-color: #00cc44;
+}
+
+.delButton{
+	background-color:#ff1a1a; 
+}
+
+.crossed > .item{
+	text-decoration: line-through;
+}
